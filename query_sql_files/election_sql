@@ -1,0 +1,36 @@
+create table house_elections_table (
+"state_district" varchar,
+"year" int,
+"state" text,
+"district" int,
+"candidate_votes" int,
+"candidate" text,
+"party" text,
+"total_votes" int,
+"state_po" text
+);
+
+create table combined_presidential_table (
+"State" varchar,
+"count" int,
+"unique" int,
+"top" text,
+"frequency" int,
+"year" int
+);
+
+create table senate_elections_table (
+"state" text,
+"year" int,
+"state_fips" int,
+"stage" text,
+"special" text,
+"candidate" text,
+"party" text,
+"candidatevotes" int,
+"totalvotes" int
+);
+
+select * from house_elections_tablecombined_presidential_table ;
+select * from combined_presidential_table ;
+select * from senate_elections_table ;

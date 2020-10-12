@@ -1,0 +1,34 @@
+,state,year,state_fips,stage,special,candidate,party,candidatevotes,totalvotes
+1,Arizona,2018,4,gen,False,Kyrsten Sinema,democrat,1191100,2384308
+4,California,2018,6,gen,False,Dianne Feinstein,democrat,6019422,11113364
+6,Connecticut,2018,9,gen,False,Christopher S Murphy,democrat,787685,1386840
+12,Delaware,2018,10,gen,False,Thomas R Carper,democrat,217385,362592
+16,Florida,2018,12,gen,False,Rick Scott,republican,4099505,8190005
+19,Hawaii,2018,15,gen,False,Mazie K. Hirono,democrat,276316,388351
+21,Indiana,2018,18,gen,False,Mike Braun,republican,1158000,2282565
+26,Maine,2018,23,gen,False,"Angus S. King, Jr.",independent,344575,634409
+30,Maryland,2018,24,gen,False,Ben Cardin,democrat,1491614,2299889
+34,Massachusetts,2018,25,gen,False,Elizabeth A. Warren,democrat,1633371,2707090
+39,Michigan,2018,26,gen,False,Debbie Stabenow,democrat,2214478,4237271
+45,Minnesota,2018,27,gen,False,Amy Klobuchar,democratic-farmer-labor,1566174,5184235
+55,Mississippi,2018,28,gen,False,Roger F. Wicker,republican,547619,1843803
+60,Missouri,2018,29,gen,False,Josh Hawley,republican,1254927,2442289
+66,Montana,2018,30,gen,False,Jon Tester,democrat,253876,504384
+69,Nebraska,2018,31,gen,False,Deb Fischer,republican,403151,698883
+73,Nevada,2018,32,gen,False,Jacky Rosen,democrat,490071,972132
+79,New Jersey,2018,34,gen,False,Robert Menendez,democrat,1711654,3169310
+87,New Mexico,2018,35,gen,False,Martin T Heinrich,democrat,376998,697012
+90,New York,2018,36,gen,False,Kirsten E. Gillibrand,democrat,3755489,6055151
+97,North Dakota,2018,38,gen,False,Kevin Cramer,republican,179720,326138
+100,Ohio,2018,39,gen,False,Sherrod Brown,democrat,2355923,4410898
+103,Pennsylvania,2018,42,gen,False,Robert P Casey Jr,democrat,2777680,4994643
+107,Rhode Island,2018,44,gen,False,Sheldon Whitehouse,democrat,231477,376738
+110,Tennessee,2018,47,gen,False,Marsha Blackburn,republican,1227483,2243740
+118,Texas,2018,48,gen,False,Ted Cruz,republican,4260553,8371655
+121,Utah,2018,49,gen,False,Mitt Romney,republican,665215,1062845
+132,Vermont,2018,50,gen,False,Bernie Sanders,independent,183529,272624
+137,Virginia,2018,51,gen,False,Timothy M. Kaine,democrat,1910370,3351373
+140,Washington,2018,53,gen,False,Maria Cantwell,democrat,1803364,3086168
+142,West Virginia,2018,54,gen,False,Joe Manchin,democrat,288808,582911
+145,Wisconsin,2018,55,gen,False,Tammy Baldwin,democrat,1472914,2657841
+148,Wyoming,2018,56,gen,False,John Barrasso,republican,136210,203420

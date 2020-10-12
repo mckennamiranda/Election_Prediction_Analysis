@@ -1,0 +1,35 @@
+,state,year,state_fips,stage,special,candidate,party,candidatevotes,totalvotes
+1,Alabama,2014,1,gen,False,Jeff Sessions,republican,795606,818090
+6,Alaska,2014,2,gen,False,Dan Sullivan,republican,135445,282400
+7,Arkansas,2014,5,gen,False,Tom Cotton,republican,478819,847505
+14,Colorado,2014,8,gen,False,Cory Gardner,republican,983891,2041058
+21,Delaware,2014,10,gen,False,Christopher A. Coons,democrat,130655,234038
+23,Georgia,2014,13,gen,False,David A. Perdue,republican,1358088,2567805
+32,Hawaii,2014,15,gen,True,Brian Schatz,democrat,246827,369703
+35,Idaho,2014,16,gen,False,James E. Risch,republican,285596,437170
+36,Illinois,2014,17,gen,False,Richard J. Durbin,democrat,1929637,3603519
+47,Iowa,2014,19,gen,False,Joni Ernst,republican,588575,1129700
+50,Kansas,2014,20,gen,False,Pat Roberts,republican,460350,866191
+56,Kentucky,2014,21,gen,False,Mich McConnell,republican,806787,1435868
+63,Louisiana,2014,22,gen,False,Bill Cassidy,republican,1712379,3523183
+69,Maine,2014,23,gen,False,Susan M. Collins,republican,413505,616996
+75,Massachusetts,2014,25,gen,False,Edward J. Markey,democrat,1289944,2186789
+80,Michigan,2014,26,gen,False,Gary C. Peters,democrat,1704936,3121771
+87,Minnesota,2014,27,gen,False,Al Franken,democrat,1053205,1981528
+90,Mississippi,2014,28,gen,False,Thad Cochran,republican,378481,631858
+91,Montana,2014,30,gen,False,Steve Daines,republican,213709,369826
+97,Nebraska,2014,31,gen,False,Ben Sasse,republican,347636,540337
+99,New Hampshire,2014,33,gen,False,Jeanne Shaheen,democrat,251184,488159
+103,New Jersey,2014,34,gen,False,Cory A. Booker,democrat,1043866,1869535
+110,New Mexico,2014,35,gen,False,Tom Udall,democrat,286409,515506
+113,North Carolina,2014,37,gen,False,Thom Tillis,republican,1423259,2915281
+122,Oklahoma,2014,40,gen,False,James M. Inhofe,republican,558166,820733
+128,Oregon,2014,41,gen,False,Jeff Merkley,democrat,814537,1461618
+132,Rhode Island,2014,44,gen,False,Jack Reed,democrat,223675,316898
+141,South Carolina,2014,45,gen,True,Tim Scott,republican,757215,1238982
+145,South Dakota,2014,46,gen,False,Mike Rounds,republican,140741,279412
+153,Tennessee,2014,47,gen,False,Lamar Alexander,republican,850087,1374065
+165,Texas,2014,48,gen,False,John Cornyn,republican,2861531,4648358
+168,Virginia,2014,51,gen,False,Mark R. Warner,democrat,1073667,2184473
+174,West Virginia,2014,54,gen,False,Shelley Moore Capito,republican,281820,453689
+185,Wyoming,2014,56,gen,False,Michael B. Enzi,republican,121554,171153
