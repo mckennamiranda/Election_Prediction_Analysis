@@ -1,6 +1,7 @@
 PROJECT TITLE: Presidential Election Analysis 2020
 
-TEAM : Akash Vaidya, Srinivas Hanumansetty, McKenna Miranda, Vasuda, Simar Singh
+Team Project for UCI Data Analytics Bootcamp
+
 
 PROJECT DESCRIPTION 
 For our final project we will be analyzing US midterm election data from 2018 and 2014. The datasets we have initially chosen date back to 1976, providing enough data to look further back in time for trends if necessary. Our main focus is analyzing trends from the past six years to determine political trends. Looking at party affiliation and voter turnout by population will give us an opportunity to visualize possible trends. Our current goal is to analyze our data for trends then, moving onto training and testing our data with a machine learning library.  Our stretch goal is to analyze the presidential election data from 2016, 2012, and 2008 to predict the outcome of this year’s (2020) election.
@@ -15,12 +16,7 @@ Voter demographic trends per election
 DATA SOURCES :
 https://electionlab.mit.edu/data
 *https://www.kaggle.com/eliasdabbas/us-midterm-elections-2018-on-google-search
-*https://www.kaggle.com/benhamner/2016-us-election?select=primary_results.csv
+*https://www.kaggle.com/benhamner/2016-us-election?select=primary_results.csv*
 
-ROUGH BREAKDOWN OF TASKS :
-Vasuda : Data Cleaning, Machine Learning, Analysis, Visualizations (Presidential State Data)
-McKenna : Data Cleaning, Machine Learning, Analysis, Visualizations (House_Data)
-Simar : SQL, AWS & Local Host
-Srinivas: Data Cleaning, Machine Learning, Analysis, Visualizations (Senate_Data)
-Akash : Presentation
+
 
