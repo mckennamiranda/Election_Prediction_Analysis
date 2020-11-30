@@ -18,5 +18,6 @@ https://electionlab.mit.edu/data
 *https://www.kaggle.com/eliasdabbas/us-midterm-elections-2018-on-google-search
 *https://www.kaggle.com/benhamner/2016-us-election?select=primary_results.csv*
 
+Template cleaning within House Election Folder by McKenna Miranda 
 
 
